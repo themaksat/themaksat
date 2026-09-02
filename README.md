@@ -61,13 +61,7 @@
 
 ---
 
-### 📊 GitHub Activity & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=themaksat&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Maksat's Trophies" width="95%" />
-</div>
-
-<br />
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=themaksat&theme=tokyonight&hide_border=true&background=0d1117" alt="Maksat's GitHub Streak" width="95%" />
