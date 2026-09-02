@@ -20,10 +20,10 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently Building:** High-performance full-stack web applications.
-- ⚡ **Tech Focus:** Modern JavaScript/TypeScript, scalable REST/GraphQL APIs & databases.
-- 💬 **Ask Me About:** React, Next.js, Node.js, system architecture, and API design.
-- 📬 **Let's Connect:** Reach out via LinkedIn or email!
+- 🔭 **Currently Building:** Modern web applications and robust APIs.
+- ⚡ **Tech Focus:** TypeScript, Next.js, Node.js, and Cloud Architecture.
+- 💬 **Ask Me About:** React, backend engineering, databases, and system design.
+- 📬 **Let's Connect:** Feel free to reach out via LinkedIn or email!
 
 ---
 
@@ -61,17 +61,16 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Activity & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themaksat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Maksat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaksat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=themaksat&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Maksat's Trophies" width="95%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themaksat&theme=tokyonight&hide_border=true&background=0d1117" alt="Maksat's GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themaksat&theme=tokyonight&hide_border=true&background=0d1117" alt="Maksat's GitHub Streak" width="95%" />
 </div>
 
 ---
